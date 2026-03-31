@@ -15,5 +15,5 @@ Controls
 ​Smooth Landscapes: Rolling hills created using mathematical sine and cosine wave functions.
 ​Procedural Forests: Randomly placed trees that always find the ground level, no matter how high the hill is.
 ⚠️warning
-if you can't move please click the screen.
-if you ecounter a invisible block jump.
+if you can't move please, click the screen.
+if you ecounter a invisible block, jump.
